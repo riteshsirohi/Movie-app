@@ -12,6 +12,7 @@
 ✅ View movie ratings ⭐  
 ✅ See trending movies powered by **Appwrite** 🏆  
 ✅ User-friendly UI 🎨  
+✅ debounced search 
 ✅ Fast & optimized performance 🚀  
 
 ---
