@@ -2,21 +2,15 @@
 
 ![Movie App](https://img.shields.io/badge/Movie--App-React-blue?style=flat-square)
 
-🚀 A **modern movie discovery app** that helps you find and explore your favorite movies, trailers, and reviews.
-
----
-
-## 📸 Preview
-
-![App Demo](https://via.placeholder.com/800x400.png?text=Movie+App+Demo)
-
-🌟 **Live Demo**: [Click Here](#) *(Add deployed link if available)*
+🚀 A **modern movie discovery app** that helps you find and explore your favorite movies, ratings, and trending lists.
 
 ---
 
 ## 🔥 Features
 
 ✅ Search for movies by title 🎥  
+✅ View movie ratings ⭐  
+✅ See trending movies powered by **Appwrite** 🏆  
 ✅ User-friendly UI 🎨  
 ✅ Fast & optimized performance 🚀  
 
@@ -25,6 +19,7 @@
 ## 🛠️ Tech Stack
 
 - **Frontend**: React (Vite) ⚛️, Tailwind CSS 🎨
+- **Backend & Storage**: **Appwrite** ☁️
 - **API**: The Movie Database (TMDb) 🎞️
 - **State Management**: Context API ⚡
 
@@ -55,8 +50,8 @@ Open in browser: `http://localhost:5173`
 ## 🎬 How to Use
 
 1. **Search for Movies** 🔍: Use the search bar to find movies by title.
-2. **view Ratings** ⭐ : you can see the rating of every movie.
-3. **Explore Trending** 🔥: Check out the latest trending and top-rated movies.
+2. **View Ratings** ⭐: Check movie ratings to decide what to watch.
+3. **Explore Trending** 🔥: See the latest trending movies, powered by **Appwrite**.
 
 ---
 
