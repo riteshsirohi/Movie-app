@@ -52,7 +52,9 @@ Open in browser: `http://localhost:5173`
 
 1. **Search for Movies** 🔍: Use the search bar to find movies by title.
 2. **View Ratings** ⭐: Check movie ratings to decide what to watch.
-3. **Explore Trending** 🔥: See the latest trending movies, powered by **Appwrite**.
+3. **View Trailers** 🍿:you can watch trailers of any movie.
+4. **Detailed Description** 📑: you can watch details like-cast,reviewa etc of movies.
+5. **Explore Trending** 🔥: See the latest trending movies, powered by **Appwrite**.
 
 ---
 
